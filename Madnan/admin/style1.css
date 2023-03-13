@@ -1,0 +1,94 @@
+.atas h3{
+    font-size: 26px;
+    margin-left: 130px;
+margin-top: -110px;
+  }
+  .atas h4{
+    font-size: 21px;
+    margin-left: 130px;
+margin-top: -10px;
+  }
+  ul{
+   
+    margin-top: 50px;
+    font-family: Arial;
+background: #87A96B;
+
+  }
+  li a{
+    color: white;
+  }
+  li{
+  
+  padding: 20px;
+    display: inline-block;
+  }
+  li a, .dropbtn{
+ 
+    text-align: center;
+    
+    text-decoration: none;
+   }
+   li a:hover, .dropdown:hover .dropbtn {
+    transition: all 0.5s ease;
+   }
+   
+   li.dropdown{
+    display: inline-block;
+   }
+   
+   
+   .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #87A96B;
+    min-width: 90px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); 
+    z-index: 1;
+   }
+   
+   .dropdown-content a {
+    color: white;
+   
+    text-decoration: none;
+    display: block;
+    text-align: center;
+   }
+   
+   
+   .dropdown-content a:hover {
+    border: 3px solid white;
+   }
+   
+   .dropdown:hover .dropdown-content {
+    display: block;
+   }
+
+   button{
+    background: #87A96B;
+    margin-left: 1050PX;
+    border-radius: 7px;
+    width: 150px;
+    height: 50px;
+    font-size: 23px;
+  }
+  button a{
+    color: white;
+  }
+
+  h2{
+    margin-left: 70px;
+  }
+
+  table {
+        border-collapse: collapse;
+        width: 80%;
+        background-color: #D0F0C0;
+        margin-top:40px;
+
+
+
+      }
+
+
+      
